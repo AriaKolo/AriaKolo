@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AriaKolo
+- 👀 I’m interested in game dev & software engineering
+- 🌱 I’m currently learning Js & Python Flask
+- 💞️ I’m looking to collaborate on whatever!
+- 📫 How to reach me ..?
+- 😄 Pronouns: she/ her
+- ⚡ Fun fact: Used to be scared of popcorn
